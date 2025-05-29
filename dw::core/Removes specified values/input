@@ -1,7 +1,7 @@
 {
-  "customerId": "C12345",
-  "name": "Alice",
-  "email": "alice@example.com",
+  "customerId": "cus1",
+  "name": "Gowtham",
+  "email": "craft@gmail.com",
   "password": "encrypted_value",
-  "ssn": "123-45-6789"
+  "ssn": "123-456"
 }
