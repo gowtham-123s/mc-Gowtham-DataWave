@@ -6,12 +6,12 @@
   },
   {
     "productId": "P002",
-    "productName": "Ergonomic Chair",
+    "productName": "Chair",
     "basePrice": 120.75
   },
   {
     "productId": "P003",
-    "productName": "Desk Lamp",
+    "productName": "Lamp",
     "basePrice": 19.00
   }
 ]
