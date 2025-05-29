@@ -1,0 +1,20 @@
+[
+  {
+    "productId": "P001",
+    "productName": "Laptop Stand",
+    "originalPrice": 49.23,
+    "displayPrice": 50
+  },
+  {
+    "productId": "P002",
+    "productName": "Chair",
+    "originalPrice": 120.75,
+    "displayPrice": 121
+  },
+  {
+    "productId": "P003",
+    "productName": "Lamp",
+    "originalPrice": 19.0,
+    "displayPrice": 19
+  }
+]
