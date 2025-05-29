@@ -1,1 +1,18 @@
+[
+  {
+    "productId": "P001",
+    "productName": "Wireless Mouse",
+    "averageRating": 4.2
+  },
+  {
+    "productId": "P002",
+    "productName": "Bluetooth Keyboard",
+    "averageRating": 2.2
+  },
+  {
+    "productId": "P003",
+    "productName": "USB-C Hub",
+    "averageRating": null
+  }
+]
 
