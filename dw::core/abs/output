@@ -1,1 +1,16 @@
-
+[
+  {
+    "productId": "P001",
+    "productName": "Wireless Mouse",
+    "expectedQty": 120,
+    "actualQty": 115,
+    "stockMismatch": 5
+  },
+  {
+    "productId": "P002",
+    "productName": "Bluetooth Keyboard",
+    "expectedQty": 80,
+    "actualQty": 85,
+    "stockMismatch": 5
+  }
+]
