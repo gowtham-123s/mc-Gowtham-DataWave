@@ -1,1 +1,5 @@
-
+{
+  "customerId": "C12345",
+  "name": "Alice",
+  "email": "alice@example.com"
+}
