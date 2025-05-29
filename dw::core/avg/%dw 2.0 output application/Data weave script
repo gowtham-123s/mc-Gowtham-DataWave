@@ -1,0 +1,11 @@
+%dw 2.0
+output application/json
+---
+payload map (product) -> {
+  productId: product.productId,
+  productName: product.productName,
+  averageRating: if (sizeOf(product.ratings) > 0) 
+                   avg(product.ratings) 
+   else 
+   null
+}
