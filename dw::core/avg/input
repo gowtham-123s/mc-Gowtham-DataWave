@@ -1,1 +1,18 @@
+[
+  {
+    "productId": "P001",
+    "productName": "Wireless Mouse",
+    "ratings": [4, 5, 4, 3, 5]
+  },
+  {
+    "productId": "P002",
+    "productName": "Bluetooth Keyboard",
+    "ratings": [2, 3, 3, 2, 1]
+  },
+  {
+    "productId": "P003",
+    "productName": "USB-C Hub",
+    "ratings": []
+  }
+]
 
