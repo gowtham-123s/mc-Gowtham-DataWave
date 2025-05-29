@@ -1,1 +1,11 @@
+%dw 2.0
+output application/json
+---
+payload map (item) -> {
+  productId: item.productId,
+  productName: item.productName,
+  expectedQty: item.expectedQty,
+  actualQty: item.actualQty,
+  stockMismatch: abs(item.expectedQty - item.actualQty)
+}
 
