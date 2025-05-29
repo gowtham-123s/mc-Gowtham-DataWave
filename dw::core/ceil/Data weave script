@@ -1,0 +1,9 @@
+%dw 2.0
+output application/json
+---
+payload map (product) -> {
+  productId: product.productId,
+  productName: product.productName,
+  originalPrice: product.basePrice,
+  displayPrice: ceil(product.basePrice)
+}
