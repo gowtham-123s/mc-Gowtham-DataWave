@@ -1,1 +1,9 @@
+%dw 2.0
+output application/json
+---
+payload map (employee) -> {
+  employee: employee.name,
+  employee: employee."employee id",
+  uniqueId: employee.name ++ "-" ++ (employee."employee id" as String)
+}
 
