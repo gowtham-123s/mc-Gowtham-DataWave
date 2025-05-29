@@ -2,6 +2,6 @@
   "customerId": "cus1",
   "name": "Gowtham",
   "email": "craft@gmail.com",
-  "password": "encrypted_value",
-  "ssn": "123-456"
+  "password": "12345",
+  "ssn": "123-456-789"
 }
