@@ -1,1 +1,20 @@
-
+[
+  {
+    "productId": "P101-A",
+    "name": "Wireless Mouse",
+    "sku": "WM123",
+    "vendor": "Vendor A"
+  },
+  {
+    "productId": "P101-B",
+    "name": "Wireless Mouse - Black",
+    "sku": "WM123",
+    "vendor": "Vendor B"
+  },
+  {
+    "productId": "P102-A",
+    "name": "Bluetooth Keyboard",
+    "sku": "BK456",
+    "vendor": "Vendor A"
+  }
+]
