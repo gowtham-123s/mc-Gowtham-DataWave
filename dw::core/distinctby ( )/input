@@ -10,11 +10,5 @@
     "name": "Wireless Mouse - Black",
     "sku": "WM123",
     "vendor": "Vendor B"
-  },
-  {
-    "productId": "P102-A",
-    "name": "Bluetooth Keyboard",
-    "sku": "BK456",
-    "vendor": "Vendor A"
   }
 ]
