@@ -1,0 +1,12 @@
+[
+  {
+    "orderId": "ORD001",
+    "orderDate": "2024-12-01",
+    "deliveredDate": "2024-12-05"
+  },
+  {
+    "orderId": "ORD002",
+    "orderDate": "2024-11-28",
+    "deliveredDate": "2024-12-02"
+  }
+]
