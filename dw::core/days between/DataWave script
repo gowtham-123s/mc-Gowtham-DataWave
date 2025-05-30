@@ -1,6 +1,5 @@
 %dw 2.0
 output application/json
-import * from dw::core::Dates
 ---
 payload map (order) -> 
  order ++ {
