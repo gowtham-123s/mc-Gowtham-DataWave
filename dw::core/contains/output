@@ -1,0 +1,10 @@
+[
+  {
+    "productId": "P001",
+    "containsRefurbished": false
+  },
+  {
+    "productId": "P002",
+    "containsRefurbished": true
+  }
+]
